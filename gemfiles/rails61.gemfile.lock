@@ -111,6 +111,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 6.1.0)
+  activesupport (~> 6.1)
   appraisal
   jp_local_gov!
   nokogiri
@@ -124,4 +125,4 @@ DEPENDENCIES
   steep
 
 BUNDLED WITH
-   2.2.24
+   2.2.32
